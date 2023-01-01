@@ -1,4 +1,3 @@
 # random-quote-generator
 
-
-The random quote generator now officially works!
+This is my first project using HTML, CSS, and Javascript. It uses the quotable API to pull random quotes and display them on the webpage. 
